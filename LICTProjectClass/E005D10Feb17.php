@@ -29,6 +29,6 @@
 
 
 	<br />
-	<a href="E006D10Feb17.php" target="_blank">Exercise004ClickHere</a>
+	<a href="E006D10Feb17.php" target="_blank">Exercise006ClickHere</a>
 </body>
 </html>

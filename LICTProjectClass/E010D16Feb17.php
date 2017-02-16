@@ -53,16 +53,10 @@ echo $lname."<br />";
 	<input type="text" required/><br />
 
 
-
-
-
-	
-	
-	
-
-
 	
 </form>
+	<br />
+	<a href="E011D16Feb17.php" target="_blank">Exercise011ClickHere</a>
 
 </body>
 </html>

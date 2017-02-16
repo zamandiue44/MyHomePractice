@@ -30,6 +30,8 @@ echo $lname."<br />";
 		<br />
 	</fieldset>
 </form>
+	<br />
+	<a href="E010D16Feb17.php" target="_blank">Exercise010ClickHere</a>
 
 </body>
 </html>
