@@ -18,11 +18,35 @@
 <body>
 	<h1>JavaScript Fundamental Course</h1>
 	<p>JavaScript- Easy to Learn- Easy to Programming Labguage</p>
-	<script src="js/E03.js" type="text/javascript">
+	<script type="text/javascript">
+	var addition = 1+1;
+	var substraction = 2-1;
+	var multi = 2*1;
+	var division = 2/1;
+	var remainder = 5%2;
+	console.log(addition);
+	console.log(substraction);
+	console.log(multi);
+	console.log(division);
+	console.log(remainder);
+	
+	var postfix = 5;
+	var prefix = 10;
+	var assignAddition = 10;
+	assignAddition +=1;
+	var num=1;
+	console.log(num);
+	
+	
+	
+	
+	
+	
+	
 	
 	</script>
 	<br />
-	<a href="E04JS13Feb17.php">Exercise04</a>
+	<a href="E07JS19Feb17.php">Exercise07</a>
 	
 </body>
 </html>

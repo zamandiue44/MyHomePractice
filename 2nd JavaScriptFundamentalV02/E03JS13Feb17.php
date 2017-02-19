@@ -18,11 +18,11 @@
 <body>
 	<h1>JavaScript Fundamental Course</h1>
 	<p>JavaScript- Easy to Learn- Easy to Programming Labguage</p>
-	<script src="js/E05.js" type="text/javascript">
+	<script src="js/E03.js" type="text/javascript">
 	
 	</script>
 	<br />
-	<a href="E05JS13Feb17.php">Exercise05</a>
+	<a href="E04JS14Feb17.php">Exercise04</a>
 	
 </body>
 </html>
